@@ -14,12 +14,14 @@ The following image is an example screenshot of what appears when you visit this
 After obtaining the link for the GeoJSON, a map was created that plots all the earthquakes from the imported dataset based on their longitude and latitude. Data markers reflect magnitude by their size as well as the depth of the earthquakes by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color. The colors for depth can be found on the legend that is shown on the bottom right of the map. </br>
 </br>
 Each marker also has a tooltip with the Location, Coordinates, Magnitude and Depth of each earthquake when clicked. </br>
-</br> 
-### Preview of the map
+#### Tooltip Example
+![tooltip](Images/5-Tooltips.JPG)
+
+### Preview of the Map
+#### OpenStreetMap View:
 ![osmMap](Images/1-osmMap.JPG)
 On the top left of the map there is a "Toggle Layers" button that allows you to swap between the OpenStreetMap and Google Satellite views. </br>
-</br>
-#### The following image shows the Google Satellite view:
+#### Google Satellite View:
 ![satelliteMap](Images/2-satelliteMap.JPG)
 
 ## Technologies Used
